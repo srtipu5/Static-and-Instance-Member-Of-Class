@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\Static and Instance member of a class.exe
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\Static and Instance member of a class.deps.json
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\Static and Instance member of a class.runtimeconfig.json
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\Static and Instance member of a class.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\Static and Instance member of a class.dll
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\ref\Static and Instance member of a class.dll
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\bin\Debug\net5.0\Static and Instance member of a class.pdb
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.dll
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\ref\Static and Instance member of a class.dll
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.pdb
+C:\Users\Tipu\Desktop\Static & Instance Class member\Static and Instance member of a class\Static and Instance member of a class\obj\Debug\net5.0\Static and Instance member of a class.genruntimeconfig.cache
